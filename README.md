@@ -19,6 +19,8 @@
 
 - ⚡ Fun facts:  My last name means "star" in Spanish.  
 
+- 📬 You can reach me at:    melissa.estrella@gmail.com
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
