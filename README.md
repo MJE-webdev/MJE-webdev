@@ -2,7 +2,7 @@
 
 
 <div id="header">
-  <img src="https://i.imgur.com/JsvdTza.png"/>
+  <img src="https://i.imgur.com/NGtcVRJ.png"/>
 </div>
 
 ### About Me :
