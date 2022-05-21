@@ -19,15 +19,20 @@
 
 - ⚡ Fun facts:  My last name means "star" in Spanish.  
 
-- 📬 You can reach me at:    melissa.estrella@gmail.com
+
+### 📬 You can reach me at:    melissa.estrella@gmail.com
+
+<p>or connect with me @ my social links below:</p> 
+
+[<img src='https://i.imgur.com/aft4XXP.png' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/mj-estrella/)  [<img src='https://i.imgur.com/0mKMES5.png)' alt='twitter' height='40' target="_blank">](https://twitter.com/MJE_webdev) 
 
 
-<h4>Connect with me:</h4>
-<p>
+<!-- <h4>Connect with me:</h4> -->
+<!-- <p>
   <a href="https://twitter.com/MJE_webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MJE_webdev" height="30" width="30" /></a>  
   <a href="https://linkedin.com/in/mj-estrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mj-estrella" height="30" width="30" /></a>
 </p>
-
+ -->
 
 
 ### :hammer_and_wrench: Languages and Tools :
