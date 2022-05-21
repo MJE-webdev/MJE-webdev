@@ -22,6 +22,13 @@
 - 📬 You can reach me at:    melissa.estrella@gmail.com
 
 
+<h4>Connect with me:</h4>
+<p>
+  <a href="https://twitter.com/MJE_webdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MJE_webdev" height="30" width="30" /></a>  
+  <a href="https://linkedin.com/in/mj-estrella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mj-estrella" height="30" width="30" /></a>
+</p>
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
