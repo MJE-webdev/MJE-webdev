@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: she/her
 
-<p>or connect with me @ my social links below:</p> 
+<p>connect with me @ my social links below:</p> 
 
 [<img src='https://i.imgur.com/aft4XXP.png' alt='linkedin' height='40' target="_blank">](https://www.linkedin.com/in/mj-estrella/)  [<img src='https://i.imgur.com/0mKMES5.png)' alt='twitter' height='40' target="_blank">](https://twitter.com/MJE_webdev) 
 
