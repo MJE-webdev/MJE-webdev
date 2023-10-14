@@ -11,16 +11,7 @@
 
 - 🔭 I’m currently working on a text to speech studying app to help my son study while traveling in a car.
 
-- 🤔 I’m looking to improve my open source contributions.
-
-- 💬 Ask me about living in New England. ❄️ 🌷 ☀️ 🍂
-
 - 😄 Pronouns: she/her
-
-- ⚡ Fun facts:  My last name means "star" in Spanish.  
-
-
-### 📬 You can reach me at:    melissa.estrella@gmail.com
 
 <p>or connect with me @ my social links below:</p> 
 
